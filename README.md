@@ -1,3 +1,3 @@
 # THREEJs-Haunted-House
 
-[haunted.cyberop.link](haunted.cyberop.link)
+[haunted.cyberop.link](https://haunted.cyberop.link)
